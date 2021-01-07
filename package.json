@@ -1,0 +1,21 @@
+{
+  "name": "@ehutch79/vite-eslint",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "Vite 2 plugin that works with the dev server and rollup build.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ehutch79/vite-eslint.git"
+  },
+  "homepage": "https://github.com/ehutch79/vite-eslint#readme",
+  "main": "src/index.js",
+  "keywords": [
+    "vite",
+    "eslint"
+  ],
+  "author": "Eric Hutchinson",
+  "dependencies": {
+    "eslint": "^7.17.0",
+    "@rollup/pluginutils": "^4.0.0"
+  }
+}
