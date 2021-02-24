@@ -3,7 +3,8 @@ Vite 2 plugin that works with the dev server and rollup build.
 
 Any errors from eslint should appear in the Vite overlay.
 
-:::
+## Warning
+
 You probably don't need this plugin. But I'm leaving it as an example, as it does use the up to date api.
 
 You probably want to use something like this in your vite config:
@@ -20,7 +21,6 @@ import eslint from '@rollup/plugin-eslint';
     },
 ...SNIPPED
 ```
-:::
 
 ## Installation
 
